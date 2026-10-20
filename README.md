@@ -1,5 +1,6 @@
 # 🎡 Mela Chaloge — 3D Indian Mela Experience
 > *An interactive, immersive 3D Dussehra & Diwali festival fair in your browser.*
+---
 > DEMO - Open [http://localhost:5173](http://localhost:5173) in your web browser
 ---
 
