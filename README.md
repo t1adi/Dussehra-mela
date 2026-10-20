@@ -1,7 +1,5 @@
 # 🎡 Mela Chaloge — 3D Indian Mela Experience
 > *An interactive, immersive 3D Dussehra & Diwali festival fair in your browser.*  
-> Inspired by the concept and atmosphere of [mela-chaloge.vercel.app](https://mela-chaloge.vercel.app/).
-
 ---
 
 ## 🌟 Overview
